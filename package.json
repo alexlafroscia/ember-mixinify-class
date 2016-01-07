@@ -1,6 +1,6 @@
 {
   "name": "ember-mixinify-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn an ES6 class into an Ember mixin",
   "directories": {
     "doc": "doc",
@@ -19,10 +19,10 @@
     "node": ">= 0.10.0"
   },
   "author": {
-    "name" : "Alex LaFroscia",
-    "email" : "alex@lafroscia.com",
-    "url" : "http://alexlafroscia.com/"
-},
+    "name": "Alex LaFroscia",
+    "email": "alex@lafroscia.com",
+    "url": "http://alexlafroscia.com/"
+  },
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
