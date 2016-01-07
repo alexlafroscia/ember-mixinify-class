@@ -1,4 +1,4 @@
-# Ember Mixinify Class
+# Ember Mixinify Class [![Build Status](https://travis-ci.org/alexlafroscia/ember-mixinify-class.svg)](https://travis-ci.org/alexlafroscia/ember-mixinify-class)
 
 An easy way to create an Ember class from a ES6 one, through the use of [Ember.Mixin](http://emberjs.com/api/classes/Ember.Mixin.html)
 
